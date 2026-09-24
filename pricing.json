@@ -1,0 +1,13 @@
+{
+  "repo": "kimik2.7-kimi-k2.7-api-fr",
+  "model": "kimi-k2.7-code",
+  "display": "Kimi K2.7",
+  "variant": "llm-fr",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_million_tokens",
+  "tiers": {
+    "input": 0.74288,
+    "output": 3.082952
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
